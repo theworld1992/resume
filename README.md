@@ -6,9 +6,9 @@
 - 年龄 ：25
 - 性别 ：男
 - 学历   ：专科  
-- 电话  微信 ：13818551140
+- 电话/QQ ：13814406850 / 1429101148
 - 邮箱 ：thewenworld@gmail.com
-- GitHub   https://github.com/theworld1992
+- GitHub : https://github.com/theworld1992
 
 -------------------
 
